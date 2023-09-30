@@ -6,9 +6,9 @@
 
 <h3>JavaScript</h3>
 
-<p>xxx.</p>
+<p>Conhecendo o JavaScript. Comandos Básicos. Variáveis e Tipos Primitivos. Tratamento de Dados. Operadores. DOM. Condições. Repetições. Variáveis Compostas. Funções.</p>
 
-<p>xxx.</p>
+<p>Getting to know JavaScript. Basic Commands. Variables and Primitive Types. Data Treatment. Operators. DOM. Control Flow. Loops. Compound Variables. Functions.</p>
 
 <h2>Projects (Projetos)</h2>
 
@@ -24,4 +24,50 @@
 
 <ul>
 <li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula04/ex001/ex001.html" target="_blank">Exercise-001 (Exercício-001)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula06/ex002/ex002.html
+" target="_blank">Exercise-002 (Exercício-002)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula06/ex003/ex003.html
+" target="_blank">Exercise-003 (Exercício-003)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula06/ex004/ex004.html
+" target="_blank">Exercise-004 (Exercício-004)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula09/ex005/ex005.html
+" target="_blank">Exercise-005 (Exercício-005)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula010/ex006/ex006.html
+" target="_blank">Exercise-006 (Exercício-006)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula010/ex007/ex007.html
+" target="_blank">Exercise-007 (Exercício-007)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula010/ex008/ex008.html
+" target="_blank">Exercise-008 (Exercício-008)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula011/ex009/ex009.html
+" target="_blank">Exercise-009 (Exercício-009)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula011/ex010/ex010.html
+" target="_blank">Exercise-010 (Exercício-010)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula011/ex011/ex011.html
+" target="_blank">Exercise-011 (Exercício-011)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula011/ex012/ex012.html
+" target="_blank">Exercise-012 (Exercício-012)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula012/ex013/ex013.html
+" target="_blank">Exercise-013 (Exercício-013)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula012/ex014/ex014.html
+" target="_blank">Exercise-014 (Exercício-014)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula012/ex015/ex015.html
+" target="_blank">Exercise-015 (Exercício-015)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula013/ex018/ex018.html
+" target="_blank">Exercise-018 (Exercício-018)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula013/ex019/ex019.html
+" target="_blank">Exercise-019 (Exercício-019)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula015/ex022/ex022.html
+" target="_blank">Exercise-022 (Exercício-022)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula015/ex023/ex023.html
+" target="_blank">Exercise-023 (Exercício-023)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula016/ex024/ex024.html
+" target="_blank">Exercise-024 (Exercício-024)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula016/ex025/ex025.html
+" target="_blank">Exercise-025 (Exercício-025)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula016/ex026/ex026.html
+" target="_blank">Exercise-026 (Exercício-026)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula016/ex027/ex027.html
+" target="_blank">Exercise-027 (Exercício-027)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula017/ex029/ex029.html
+" target="_blank">Exercise-029 (Exercício-029)</a></li>
 </ul>
