@@ -14,6 +14,10 @@
 
 <ul>
 <li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula12ex/ex016/modelo.html" target="_blank">Exercise-016 (Exercício-016)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula12ex/ex017/modelo.html" target="_blank">Exercise-017 (Exercício-017)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula14ex/ex020/modelo.html" target="_blank">Exercise-020 (Exercício-020)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula14ex/ex021/modelo.html" target="_blank">Exercise-021 (Exercício-021)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula16ex/ex028/modelo.html" target="_blank">Exercise-028 (Exercício-028)</a></li>
 </ul>
 
 <h2>Exercises (Exercícios)</h2>
