@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brasileiro(a) ou Estrangeiro(a)</title>
+  </head>
+  <body>
+    <h1>Verificar se é Brasileiro(a) ou Estrangeiro(a)</h1>
+    Qual país você nasceu? <input type="text" name="txtnac" id="txtnac" />
+    <input type="button" value="Verificar" onclick="nacionalidade()" />
+    <div id="res"></div>
+    <script>
+      function nacionalidade() {
+        var txtn = window.document.querySelector("input#txtnac");
+        var res = window.document.querySelector("div#res");
+        //var nac = String(txtn.value);
+        res.innerHTML = `<p>País de Nascimento: <strong> ${txtn.value} </strong></p>`;
+        if (
+          txtn.value == "brasil" ||
+          txtn.value == "Brasil" ||
+          txtn.value == "BRASIL" /* ou nac */
+        ) {
+          res.innerHTML += `<p>Você é Brasileiro(a)!</p>`;
+        } else {
+          res.innerHTML += `<p>Você é Estrangeiro(a)!</p>`;
+        }
+      }
+    </script>
+  </body>
+</html>
