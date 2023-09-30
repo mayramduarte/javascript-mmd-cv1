@@ -52,7 +52,7 @@
 " target="_blank">Exercise-014 (Exercício-014)</a></li>
 <li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula12/ex015/ex015.js
 " target="_blank">Exercise-015 (Exercício-015)</a></li>
-<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula013/ex018/ex018.js
+<li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula13/ex018/ex018.js
 " target="_blank">Exercise-018 (Exercício-018)</a></li>
 <li><a href="https://mayramduarte.github.io/javascript-mmd-cv1/aula13/ex019/ex019.js
 " target="_blank">Exercise-019 (Exercício-019)</a></li>
