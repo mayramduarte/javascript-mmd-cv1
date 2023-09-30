@@ -6,9 +6,9 @@
 
 <h3>JavaScript</h3>
 
-<p>Conhecendo o JavaScript. Comandos Básicos. Variáveis e Tipos Primitivos. Tratamento de Dados. Operadores. DOM. Condições. Repetições. Variáveis Compostas. Funções.</p>
-
 <p>Getting to know JavaScript. Basic Commands. Variables and Primitive Types. Data Treatment. Operators. DOM. Control Flow. Loops. Compound Variables. Functions.</p>
+
+<p>Conhecendo o JavaScript. Comandos Básicos. Variáveis e Tipos Primitivos. Tratamento de Dados. Operadores. DOM. Condições. Repetições. Variáveis Compostas. Funções.</p>
 
 <h2>Projects (Projetos)</h2>
 
